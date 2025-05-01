@@ -151,5 +151,5 @@ SELECT name, schema_id
 FROM sys.views
 WHERE name = 'PercentagePopulationVaccinated';
 
-SELECT TOP 10000 * FROM dbo.PercentagePopulationVaccinated;
+SELECT TOP 18000 * FROM dbo.PercentagePopulationVaccinated;
 
